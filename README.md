@@ -1,7 +1,7 @@
 <!-- Profile README for nagaarunprasath08. Save as README.md in the repo nagaarunprasath08/nagaarunprasath08 -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A2540,50:0A66C2,100:00B4D8&text=Naga%20Arun%20Prasath&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Software%20Developer%20%7C%20MERN%20%26%20Python&descSize=20&descAlignY=60&animation=fadeIn" alt="Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A2540,50:0A66C2,100:00B4D8&text=Naga%20Arun%20Prasath&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Software%20Developer%20%7C%20MERN%20and%20Python&descSize=20&descAlignY=60&animation=fadeIn" alt="Header" />
 </p>
 
 <p align="center">
