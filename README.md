@@ -1,11 +1,12 @@
-<!-- Profile README for nagaarunprasath08. Save as README.md in the repo nagaarunprasath08/nagaarunprasath08 -->
+<!--
+  Profile README for nagaarunprasath08 (technical animated header + footer)
+  Repo layout:   README.md
+                 assets/header.svg
+                 assets/footer.svg
+-->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A2540,50:0A66C2,100:00B4D8&text=Naga%20Arun%20Prasath&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Software%20Developer%20%7C%20MERN%20and%20Python&descSize=20&descAlignY=60&animation=fadeIn" alt="Header" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3500&pause=1200&color=0A66C2&center=true&vCenter=true&width=700&lines=Building+full-stack+web+applications;React+%C2%B7+Node.js+%C2%B7+Express+%C2%B7+MongoDB+%C2%B7+Python;Turning+ideas+into+clean%2C+working+products" alt="Tagline" />
+  <img src="assets/header.svg" width="100%" alt="Naga Arun Prasath - Full-Stack Developer (MERN and Python)" />
 </p>
 
 <p align="center">
@@ -87,4 +88,6 @@ Junior software developer with hands-on experience in the **MERN stack** and **P
   <!-- <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00B4D8,50:0A66C2,100:0A2540&section=footer" alt="Footer" />
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Thanks for visiting" />
+</p>
