@@ -1,5 +1,5 @@
 <div align="center">
-  <h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey Everyone, I'm Rossyn</h2>
+  <h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey Everyone, I'm Nagaarun Prasath</h2>
   <h3>💻 Welcome to My GitHub Universe!</h3>
 </div>
 <div align="center">
