@@ -1,13 +1,10 @@
-## Hi there 👋
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#00D9FF;">Naga Arun Prasath</span>
+</h1>
 
-<!--
-**nagaarunprasath08/nagaarunprasath08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-👋 Hi, I'm Naga Arun Prasath
-💻 Software Developer
-⚛️ React | 🐍 Python | Node.js
-🚀 Projects
-🛠️ Tech Stack
-📊 GitHub Stats
-🌐 Connect With Me
+<p align="center">
+  <span style="color:#8B5CF6;">Software Developer</span> |
+  <span style="color:#00D9FF;">React</span> |
+  <span style="color:#F59E0B;">Python</span> |
+  <span style="color:#22C55E;">Node.js</span>
+</p>
