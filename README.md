@@ -1,153 +1,77 @@
-<div align="center">
+<!--
+  GitHub profile README (dark theme, matches the screenshot layout)
 
-<img src="./assets/banner.svg" alt="Naga Arun Prasath banner" width="100%" />
+  SETUP:
+  1. Create a PUBLIC repo named exactly the same as your GitHub username (e.g. "yourname/yourname").
+  2. Put this file in it as README.md.
+  3. Find & replace  YOUR_USERNAME  with your GitHub username (appears in many URLs).
+  4. Replace YOUR_NAME, social links, and the illustration URL.
+-->
 
-<a href="https://nagaarun.netlify.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-nagaarun.netlify.app-00f0ff?style=for-the-badge&logo=netlify&logoColor=black&labelColor=0b1230" />
-</a>
+<h2 align="center">😎 Hey Everyone, I'm YOUR_NAME</h2>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-8a5cff?style=for-the-badge&labelColor=0b1230" />
+<h1 align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Welcome+to+My+GitHub+Universe!" alt="Typing SVG" />
+  </a>
+</h1>
 
-<img src="https://komarev.com/ghpvc/?username=nagaarunprasath08&label=PROFILE+VIEWS&color=00f0ff&style=for-the-badge&labelColor=0b1230" />
+<table align="center" border="0">
+<tr>
+<td valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Building+full-stack+web+apps;React+%C2%B7+Node.js+%C2%B7+MongoDB+%C2%B7+Python;AI+Enthusiast+%C2%B7+Exploring+Machine+Learning;Learning+ML+%26+System+Design" alt="typing" />
+- 🧑‍💻 Building Android apps that help people every day.
+- 📖 Focused on learning and improving
+- 🛠️ Enjoy working on a variety of projects
+- 👥 Open to collaboration
+- 🔧 Offering services for Android Apps
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=visitors&color=brightgreen&style=flat" alt="visitors" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1230,100:021b2b&height=2" width="100%"/>
+<br/><br/>
 
-## `> whoami`
+<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@YOUR_MEDIUM"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" /></a>
+<a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" /></a>
+<a href="https://wa.me/YOUR_NUMBER"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
 
-```python
-class Developer:
-    name      = "Naga Arun Prasath"
-    role      = "Junior Software Developer"
-    stack     = ["MERN", "Python"]
-    focus     = ["AI", "Machine Learning", "RAG"]
-    learning  = ["TypeScript", "Docker", "System Design"]
-    portfolio = "https://nagaarun.netlify.app"
+</td>
+<td valign="middle">
 
-    def __str__(self):
-        return "Turning ideas into working code"
-```
+<!-- Replace with any developer illustration (PNG/GIF) you like -->
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/dev-illustration.png" width="300" alt="developer illustration" />
 
-## `> about`
-
-Software Developer and AI Enthusiast focused on building full-stack web applications and exploring Artificial Intelligence, Machine Learning, and RAG-based applications.
-
-Interested in developing practical solutions that combine modern web technologies with AI.
-
-## `> cat skills.json`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,python,git,github,netlify,vscode&theme=dark" />
-
-</div>
-
-## `> interests`
-
-```text
-Artificial Intelligence
-Machine Learning
-RAG Applications
-Full-Stack Development
-REST APIs
-System Design
-```
-
-## `> ls projects/`
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>
-        <a href="https://github.com/nagaarunprasath08/alumni-project">
-          alumni-project
-        </a>
-      </h3>
-      <sub>Alumni platform · JavaScript</sub>
-    </td>
-
-    <td width="50%">
-      <h3>
-        <a href="https://github.com/nagaarunprasath08/chat">
-          chat
-        </a>
-      </h3>
-      <sub>Chat application</sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <h3>
-        <a href="https://github.com/nagaarunprasath08/quiz-app-using-supervised-learning-">
-          quiz-app-using-supervised-learning
-        </a>
-      </h3>
-      <sub>Quiz app + ML · JavaScript</sub>
-    </td>
-
-    <td>
-      <h3>
-        <a href="https://github.com/nagaarunprasath08/quiz-app-2.0">
-          quiz-app-2.0
-        </a>
-      </h3>
-      <sub>Interactive quiz app · JavaScript</sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <h3>
-        <a href="https://github.com/nagaarunprasath08/AAC-FHUB">
-          AAC-FHUB
-        </a>
-      </h3>
-      <sub>File management platform</sub>
-    </td>
-
-    <td>
-      <h3>
-        <a href="https://github.com/nagaarunprasath08/portfolio">
-          portfolio
-        </a>
-      </h3>
-      <sub>Personal portfolio site · JavaScript</sub>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
-## `> git log --stats`
+<br/>
 
-<div align="center">
+<!-- Profile summary card: contributions in last year, public repos, joined date -->
+<p align="center">
+  <img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" alt="Profile details" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nagaarunprasath08&show_icons=true&theme=radical&hide_border=true&bg_color=0b1230&title_color=00f0ff&icon_color=8a5cff&text_color=cfe8ff" />
+<!-- Stats + Commits per hour of day -->
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=github_dark" alt="Stats" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=github_dark&utcOffset=5.5" alt="Productive time" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagaarunprasath08&layout=compact&hide_border=true&bg_color=0b1230&title_color=00f0ff&text_color=cfe8ff" />
+<!-- Top languages by repo + by commit -->
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark" alt="Top languages by repo" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=github_dark" alt="Top languages by commit" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nagaarunprasath08&hide_border=true&background=0b1230&ring=00f0ff&fire=8a5cff&currStreakLabel=00f0ff&sideLabels=cfe8ff&currStreakNum=cfe8ff&sideNums=cfe8ff&dates=8a9bb8" />
+<!-- Trophies row -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&column=6&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="Trophies" />
+</p>
 
-</div>
-
-## `> ping me`
-
-<div align="center">
-
-<a href="https://nagaarun.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=black" />
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:YOUR-EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-8a5cff?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1230,50:8a5cff,100:00f0ff&height=110&section=footer" width="100%"/>
-
-</div>
+<!-- Contribution activity graph (green line with white points) -->
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=39d353&hide_border=false&border_color=30363d&title_color=ffffff&custom_title=YOUR_NAME's%20Contribution%20Graph" alt="Contribution graph" />
+</p>
